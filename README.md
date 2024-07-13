@@ -1,3 +1,4 @@
+![logo](https://github.com/mushafaly/mushafaly/blob/main/banner.png.png)
 <h1 align="center">Hi 👋, I'm Mushaf Ali</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"
